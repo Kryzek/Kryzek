@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kryzek
-- 👀 I’m interested in C/C++/C#/Python/PowerShell/PHP/JS
+- 👀 I’m interested in C/C++/C#/Python/PowerShell/PHP/JavaScript/HTML/CSS
 - 🌱 I’m always trying to learn.
-- 🌱 I cannot actually code, but I can cut'n'paste.
 - 👀 Smarthome is something I would like to have.
 
 <!---
